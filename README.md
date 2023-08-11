@@ -8,6 +8,6 @@ This is a responsive webpage which showcases a few anime shows
 # Technologies Used
 * HTML
 * CSS
-* JavaScript (for theme toggling)
+* JavaScript (for theme toggling and slider ) 
 * Font Awesome (for icons)
 * Google Fonts (for typography)
